@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ItsJune187
 - 👀 I’m interested in Modding, Network-tech and IT Security
 - 🌱 I’m currently learning Python/SQL/Container Orchestration
-- ❤️ I love Lua. Trying to make the world a better place
+- ❤️ Trying to make the world a better place
 - 📫 How to reach me: business@itsjune.de
